@@ -24,10 +24,7 @@ project-root/
     └── public/           # Static assets
 ```
 
- Setup and Installation
-
- Prerequisites
-- [Node.js](https://nodejs.org/)
+ 
 
  Steps
 1. Clone the Repository:
