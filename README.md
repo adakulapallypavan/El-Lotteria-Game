@@ -9,22 +9,6 @@ A  interactive lottery game app where players can select numbers on a grid. Numb
 - **Win Condition**: Players win when a row or column is fully crossed out.
 - **Game End**: Option to end the game once a win condition is met.
 
-## Project Structure
-
-```plaintext
-project-root/
-├── backend/              # Backend logic (Node.js, Express)
-│   ├── routes/           # API routes
-│   └── server.js         # Server setup and game logic
-└── client/               # Frontend (React)
-    ├── src/
-    │   ├── components/   # UI components for the game grid
-    │   ├── App.js        # Main game logic and components
-    │   └── index.js      # Entry point for React
-    └── public/           # Static assets
-```
-
- 
 
  Steps
 1. Clone the Repository:
